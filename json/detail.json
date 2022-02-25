@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Macaroni",
+    "img": "assets/mac.jfif",
+    "name": "Macaroni ",
+    "text": "Enjoy the sweet and spicy Macaroni at an affordable price",
+    "time": "21 July",
+    "prize": "200"
+
+  },
+  {
+    "title": "Steak",
+    "img": "assets/meat.jfif",
+    "name": "Steak ",
+    "text": "Enjoy the sweet and spicy Macaroni at an affordable price",
+    "time": "21 June",
+    "prize": "250"
+  },
+  {
+    "title": "pasta",
+    "img": "assets/pasta.jfif",
+    "name": "Pasta",
+    "text": "Enjoy the sweet and spicy Macaroni at an affordable price",
+    "time": "19 December",
+    "prize": "500"
+  },
+  {
+    "title": "Shrimp",
+    "img": "assets/shrimp.png",
+    "name": "Fried ",
+    "text": "Enjoy the sweet and spicy Macaroni at an affordable price",
+    "time": "12 Febuary",
+    "prize": "750"
+  },
+  {
+    "title": "Pizza",
+    "img": "assets/pizzs.jfif",
+    "name": "Chicken",
+    "text": "Enjoy the sweet and spicy Macaroni at an affordable price",
+    "time": "22 April",
+    "prize": "100"
+  },
+  {
+    "title": "Wing Snap",
+    "img": "assets/Wing.jfif",
+    "name": "Chilly ",
+    "text": "Enjoy the sweet and spicy Macaroni at an affordable price",
+    "time": "05 march",
+    "prize": "1000"
+  },
+  {
+    "title": "Biryani",
+    "img": "assets/Biryani.jfif",
+    "name": "Chicken ",
+    "text": "Enjoy the sweet and spicy Macaroni at an affordable price",
+    "time": "13 July",
+    "prize": "950"
+  },
+  {
+    "title": "Cheese",
+    "img": "assets/cheese.jfif",
+    "name": "Mac",
+    "text": "Enjoy the sweet and spicy Macaroni at an affordable price",
+    "time": "02 January",
+    "prize": "650"
+  }
+]
